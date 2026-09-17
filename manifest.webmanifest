@@ -1,0 +1,13 @@
+{
+  "name": "Rotary Pizza + Coffee",
+  "short_name": "Rotary",
+  "description": "Pizza, coffee and Italian-American favorites in Lake Havasu City.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b91969",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
