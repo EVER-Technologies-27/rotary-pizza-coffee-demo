@@ -1,2 +1,2 @@
-:HL["/rotary-pizza-coffee-demo/_next/static/css/5bece5dedb270994.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_BkBUuNbwEDSmmyE2kJNB"}
+:HL["/rotary-pizza-coffee-demo/_next/static/css/1c369b39ec45f534.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yeT1zVa5ZDJ-Mye1bkfDk"}
